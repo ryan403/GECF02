@@ -103,6 +103,12 @@ body {
 }
 
 
+/* Course Feature Paragraph align  */
+.row .col-lg-4 p{
+    text-align: left;
+}
+
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
